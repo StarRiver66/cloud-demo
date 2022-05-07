@@ -5,6 +5,9 @@ import cn.itcast.user.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+/**
+ * @author 星河
+ */
 @Service
 public class UserService {
 
